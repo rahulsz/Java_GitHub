@@ -9,7 +9,6 @@
       <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception_Handling/Exception_Handling.iml" filepath="$PROJECT_DIR$/Exception_Handling/Exception_Handling.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Infosys_Spring_Board/Infosys_Spring_Board.iml" filepath="$PROJECT_DIR$/Infosys_Spring_Board/Infosys_Spring_Board.iml" />
       <module fileurl="file://$PROJECT_DIR$/Instagram/Instagram.iml" filepath="$PROJECT_DIR$/Instagram/Instagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/Intermediate Projects/Intermediate Projects.iml" filepath="$PROJECT_DIR$/Intermediate Projects/Intermediate Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
@@ -17,7 +16,6 @@
       <module fileurl="file://$PROJECT_DIR$/Type Casting/Type Casting.iml" filepath="$PROJECT_DIR$/Type Casting/Type Casting.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/method_overrinding/method_overrinding.iml" filepath="$PROJECT_DIR$/method_overrinding/method_overrinding.iml" />
-      <module fileurl="file://$PROJECT_DIR$/name/name.iml" filepath="$PROJECT_DIR$/name/name.iml" />
     </modules>
   </component>
 </project>
